@@ -20,10 +20,10 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/_____ /
 *******************************************************************************
 ''')
-print("Welcome to The Endless Labirynth.")
+print("Welcome to The Endless Labyrinth.")
 print("Your mission is to find the exit and get your treasure.") 
 
-side = input("You're in a labirynth and came across two paths, which one do you choose? Left or right?\n")
+side = input("You're in a labyrinth and came across two paths, which one do you choose? Left or right?\n")
 side = side.lower()
 if side == "left":
     print("Great, the path you chose helped you continue forward")
