@@ -6,6 +6,6 @@ This repository contains all the projects developed during the challenge. If you
 
 | Day | Project             | Description                                                                             | Link              |
 | --- | ------------------- | --------------------------------------------------------------------------------------- | ----------------- |
-| 01  | Band Name Generator | Band name generator using user prompts                                                  |
+| 01  | Band Name Generator | Band name generator using user prompts                                                  | Not available yet |
 | 02  | Tip Calculator      | Individual bill and tip calculator, determining the share each person owes using Python | Not available yet |
 | 03  | Endless Labyrinth   | Text-based game using if/else statements.                                               | Not available yet |
