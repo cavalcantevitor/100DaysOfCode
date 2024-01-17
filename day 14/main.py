@@ -25,9 +25,9 @@ def compare_result(item_a, item_b):
 
 def display_comparison(item_a, item_b):
     # Display the comparison between two items, including name, description, country, and follower count
-    print(f"Compare A: {item_a['name']}, a {item_a['description']}, from {item_a['country']}, {item_a['follower_count']}")
+    print(f"Compare A: {item_a['name']}, a {item_a['description']}, from {item_a['country']}")
     print(art.vs)
-    print(f"Against B: {item_b['name']}, a {item_b['description']}, from {item_b['country']}, {item_b['follower_count']}")
+    print(f"Against B: {item_b['name']}, a {item_b['description']}, from {item_b['country']}")
 
 def play_game():
     # Initial setup for the first two items
