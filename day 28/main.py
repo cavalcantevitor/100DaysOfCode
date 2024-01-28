@@ -1,3 +1,5 @@
+# Pomodoro Clock
+
 from tkinter import *
 
 # ---------------------------- CONSTANTS ------------------------------- #
