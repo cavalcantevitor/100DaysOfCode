@@ -1,4 +1,4 @@
-# Pomodoro Clock
+# Pomodoro timer
 
 # Import required modules
 from tkinter import *
