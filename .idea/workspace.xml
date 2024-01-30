@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="966d38fa-9550-4721-83d0-9bfeaf8abc91" name="Changes" comment="Day 26 - NATO Phonetic Alphabet Converter">
+      <change afterPath="$PROJECT_DIR$/day 28/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 28/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 28/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2bF23rra7j5VRB6Ul8rK5SW5MNz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.ball.executor&quot;: &quot;Run&quot;,
+    &quot;Python.food.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paddle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.player.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.score.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scoreboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.start.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vitorcavalcante/Code/Python/100DaysOfCode/day 24&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day 24" />
+      <recent name="$PROJECT_DIR$/day 21" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day 28" />
+      <recent name="$PROJECT_DIR$/day 27/exercises" />
+      <recent name="$PROJECT_DIR$/day 25/final_project/old" />
+      <recent name="$PROJECT_DIR$/day 25/exercises" />
+      <recent name="$PROJECT_DIR$/day 24/improved_snake_game" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="966d38fa-9550-4721-83d0-9bfeaf8abc91" name="Changes" comment="" />
+      <created>1705796309638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705796309638</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Day 18 - Hirst Painting Project">
+      <option name="closed" value="true" />
+      <created>1705796667577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705796667578</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day 19 - Turtle Race">
+      <option name="closed" value="true" />
+      <created>1705861804288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705861804288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day 19 - Turtle Race">
+      <option name="closed" value="true" />
+      <created>1705862816337</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705862816337</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day 20 - Snake Game Part 1">
+      <option name="closed" value="true" />
+      <created>1705866861262</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705866861262</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day 20 - Snake Game Part 1">
+      <option name="closed" value="true" />
+      <created>1705866873116</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705866873116</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Day 21 - Snake Game Part 2">
+      <option name="closed" value="true" />
+      <created>1705975298560</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705975298561</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Day 22 and 23 - Pong Game and Turtle Crossing Game">
+      <option name="closed" value="true" />
+      <created>1706054630451</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706054630451</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Day 25 - Exercises">
+      <option name="closed" value="true" />
+      <created>1706231920460</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706231920460</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Day 25 - U.S. States Game">
+      <option name="closed" value="true" />
+      <created>1706316305370</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706316305371</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Day 26 - NATO Phonetic Alphabet Converter">
+      <option name="closed" value="true" />
+      <created>1706390322932</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706390322932</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 18 - Hirst Painting Project" />
+    <MESSAGE value="Day 19 - Turtle Race" />
+    <MESSAGE value="Day 20 - Snake Game Part 1" />
+    <MESSAGE value="Day 21 - Snake Game Part 2" />
+    <MESSAGE value="Day 22 and 23 - Pong Game and Turtle Crossing Game" />
+    <MESSAGE value="Day 25 - Exercises" />
+    <MESSAGE value="Day 25 - U.S. States Game" />
+    <MESSAGE value="Day 26 - NATO Phonetic Alphabet Converter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 26 - NATO Phonetic Alphabet Converter" />
+  </component>
+</project>
