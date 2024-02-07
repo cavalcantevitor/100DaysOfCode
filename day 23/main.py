@@ -32,7 +32,7 @@ while game_is_on:
         player.refresh()
         scoreboard.next_level()
         scoreboard.update_scoreboard()
-        car_manager.increase_speed()
+        # car_manager.increase_speed()
 
 
 screen.exitonclick()
