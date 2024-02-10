@@ -1,12 +1,14 @@
 import data
 
+
 def is_resources_sufficient(order_ingredients):
     """Check if there are enough resources to fulfill the order."""
     for item in order_ingredients:
         if order_ingredients[item] >= data.resources[item]:
             print(f"Sorry, there is not enough {item}")
             return False
-    return True    
+    return True
+
 
 def process_coins():
     """Process the coins inserted by the user and return the total."""
@@ -17,6 +19,7 @@ def process_coins():
     total += float(input("How many pennies? ")) * 0.01
     return total
 
+
 def is_transaction_successful(money_received, drink_cost):
     """Check if the payment is sufficient for the selected drink."""
     if money_received >= drink_cost:
@@ -24,15 +27,17 @@ def is_transaction_successful(money_received, drink_cost):
         print(f"Here is ${change} in change")
         data.money += drink_cost
         return True
-    else: 
+    else:
         print("Sorry that's not enough money. Money refunded.")
-        return False 
+        return False
+
 
 def make_coffee(drink_name, order_ingredients):
     """Deduct the required ingredients from the resources to make the coffee."""
     for item in order_ingredients:
         data.resources[item] -= order_ingredients[item]
     print(f"Here is your {drink_name}!")
+
 
 # Machine state
 coffee_machine_on = True
