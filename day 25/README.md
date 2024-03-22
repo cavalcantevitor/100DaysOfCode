@@ -1,3 +1,0 @@
-# U.S. States Game
-
-The U.S. States Game is an interactive Python application built using the Turtle graphics library and Pandas. The game prompts users to guess U.S. states by typing their names. The program features a graphical representation of the U.S. map, and correct guesses are marked on the map. Users can exit the game, and the list of states to learn is saved to a CSV file. A fun and educational way to enhance your knowledge of U.S. geography!

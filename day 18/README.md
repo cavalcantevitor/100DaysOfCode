@@ -1,3 +1,0 @@
-# Hirst Painting Project 
-
-This simple Python script uses the Turtle graphics library to create a visually appealing grid of colorful dots just like some of Damien Hirst's paintings. The colors are extracted from an image using the Colorgram library, and the Turtle module is employed to draw a grid of dots on the screen. Each row features a random selection of vibrant colors, resulting in a visually dynamic display. The script serves as a fun and creative way to explore color palettes in a graphical setting.
